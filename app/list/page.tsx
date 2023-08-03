@@ -7,6 +7,7 @@ import Footer from "@/components/footer";
 type list = {
   id: string;
   nama: string;
+  divisi: string;
   atk: string;
   jumlah: number;
 };
@@ -31,6 +32,7 @@ export default async function listATK() {
               <tr>
                 <th>No</th>
                 <th>Nama</th>
+                <th>Divisi</th>
                 <th>Alat Tulis kantor</th>
                 <th>Jumlah</th>
                 <th>Action</th>
@@ -41,6 +43,7 @@ export default async function listATK() {
                 <tr key={List.id}>
                   <td>{index + 1}</td>
                   <td>{List.nama}</td>
+                  <td>{List.divisi}</td>
                   <td>{List.atk}</td>
                   <td>{List.jumlah}</td>
                   <td className="flex">

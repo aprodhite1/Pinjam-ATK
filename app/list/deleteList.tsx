@@ -6,6 +6,7 @@ import { useRouter } from "next/navigation";
 type List = {
   id: string;
   nama: string;
+  divisi: string;
   jumlah: number;
   atk: string;
 };

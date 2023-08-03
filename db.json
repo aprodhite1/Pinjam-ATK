@@ -1,29 +1,31 @@
 {
   "list": [
     {
-      "nama": "assa",
-      "atk": "daasd",
-      "jumlah": 1231231,
-      "id": "NdUFO2K",
-      "Id": "NdUFO2K"
+      "nama": "Santi Elvi, SE",
+      "atk": "w",
+      "jumlah": "2",
+      "id": "0tXJj7i"
     },
     {
-      "nama": "hady",
-      "atk": "tipe x",
-      "jumlah": "1",
-      "id": "vEAni0s"
+      "nama": "Mulia Andestar, SST, M.Si",
+      "atk": "d",
+      "jumlah": "32",
+      "id": "jQgMBtz"
     },
     {
-      "nama": "k",
-      "atk": "kb",
-      "jumlah": "7",
-      "id": "xNErtQY"
+      "nama": "Mulia Andestar, SST, M.Si",
+      "divisi": "Neraca Wilayah dan Diseminasi",
+      "atk": "as",
+      "jumlah": "2",
+      "id": "rrFXdLv"
     },
     {
-      "nama": "s",
-      "atk": "asd",
-      "jumlah": "3",
-      "id": "DaS4p6O"
+      "nama": "Mona Priditta Silva, S.ST",
+      "divisi": "Neraca Wilayah dan Diseminasi",
+      "atk": "w",
+      "jumlah": "21",
+      "id": "LvpvDxz",
+      "Id": "LvpvDxz"
     }
   ]
 }
