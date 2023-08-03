@@ -6,11 +6,13 @@ const Layout = (props: any) => {
       <div className="hero-content text-center">
         <div className="max-w-md">
           <h1 className="text-5xl font-bold">Peminjaman Alat Tulis Kantor</h1>
-          <p className="py-6">
-            Website Peminjaman alat tulis kantor untuk BPS Padang pariaman
+          <p className="py-6 text-xl">
+            Website Peminjaman alat tulis kantor untuk BPS Pasaman
           </p>
           <Link href="/list">
-            <button className="btn btn-primary">Ayo Mulai Mencatat</button>
+            <button className="btn btn-primary text-white">
+              Ayo Mulai Mencatat
+            </button>
           </Link>
         </div>
       </div>

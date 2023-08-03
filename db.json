@@ -1,18 +1,6 @@
 {
   "list": [
     {
-      "nama": "Santi Elvi, SE",
-      "atk": "w",
-      "jumlah": "2",
-      "id": "0tXJj7i"
-    },
-    {
-      "nama": "Mulia Andestar, SST, M.Si",
-      "atk": "d",
-      "jumlah": "32",
-      "id": "jQgMBtz"
-    },
-    {
       "nama": "Mulia Andestar, SST, M.Si",
       "divisi": "Neraca Wilayah dan Diseminasi",
       "atk": "as",
@@ -26,6 +14,13 @@
       "jumlah": "21",
       "id": "LvpvDxz",
       "Id": "LvpvDxz"
+    },
+    {
+      "nama": "Santi Elvi, SE",
+      "divisi": "Sosial",
+      "atk": "asd",
+      "jumlah": "12",
+      "id": "8Vlkkiq"
     }
   ]
 }

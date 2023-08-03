@@ -43,7 +43,7 @@ export default function AddList() {
   }
   return (
     <div>
-      <button className="btn bg-[#FBEEAC] border-black" onClick={handleChange}>
+      <button className="btn bg-[#FBEEAC] rounded-full" onClick={handleChange}>
         Add List
       </button>
       <input
@@ -60,7 +60,7 @@ export default function AddList() {
               <label className="label font-bold">Nama</label>
               <div className="text-xl">
                 <select
-                  className="hover:cursor-pointer text-sm block appearance-none w-full border border-abutua text-hitam py-3 px-4  pr-8 rounded-lg leading-tight focus:outline-none focus:border-birumuda focus:-border-1 ring-slate-300"
+                  className="required hover:cursor-pointer text-sm block appearance-none w-full border border-abutua text-hitam py-3 px-4  pr-8 rounded-lg leading-tight focus:outline-none focus:border-birumuda focus:-border-1 ring-slate-300"
                   id="nama"
                   name="nama"
                   value={nama}
